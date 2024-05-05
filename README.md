@@ -1,2 +1,19 @@
-# luxo
-Arduino servo arm version of the Luxo Jr (Pixar lamp).
+# Luxo JR arduino servo lamp
+This is an arduino-based lamp that can move with servos.
+
+## Components
+ - Arduino
+ - Micro SG90 Servo (x3)
+ - Jumper wires
+ - B10K Potentiometers
+ - Mini Breadboard
+ - (optional) [Kitironik 5V Lamp Module](https://kitronik.co.uk/collections/electronic-project-kits/products/35137-5v-mini-led-lamp-module)
+
+## Connections
+ - Bottom servo to D9
+ - Middle Servo to D8
+ - Top Servo to D7
+ - Bottom Potentiometer to A3
+ - Middle Potentiometer to A2
+ - Top Potentiometer to A1
+
