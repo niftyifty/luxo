@@ -17,3 +17,8 @@ This is an arduino-based lamp that can move with servos.
  - Middle Potentiometer to A2
  - Top Potentiometer to A1
 
+## Media
+
+![ (1)](https://github.com/niftyifty/luxo/assets/77208947/e9a7ae8e-8f07-42c6-abdd-e6c43eb6a2fd)
+
+[Video](https://imgur.com/a/rDI3vWl)
