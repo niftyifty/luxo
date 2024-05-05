@@ -19,6 +19,6 @@ This is an arduino-based lamp that can move with servos.
 
 ## Media
 
-![ (1)](https://github.com/niftyifty/luxo/assets/77208947/e9a7ae8e-8f07-42c6-abdd-e6c43eb6a2fd)
+https://github.com/niftyifty/luxo/assets/77208947/add2bd36-c76b-4b49-a136-d5fd9faee7a7
 
-[Video](https://imgur.com/a/rDI3vWl)
+![ (1)](https://github.com/niftyifty/luxo/assets/77208947/587c83e8-b6da-4755-95ce-4494243c05bb)
